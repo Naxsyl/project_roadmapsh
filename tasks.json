@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Membuat PPT untuk persentasi Ujian PKL",
+    "status": "todo",
+    "createdAt": "2025-01-11 03:49:19",
+    "updatedAt": "2025-01-11 03:49:19"
+  },
+  {
+    "id": 2,
+    "description": "Membuat menggunakan Javascript",
+    "status": "done",
+    "createdAt": "2025-01-11T09:29:22.064Z",
+    "updatedAt": "2025-01-11T09:29:36.383Z"
+  }
+]
